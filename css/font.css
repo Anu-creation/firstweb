@@ -1,0 +1,26 @@
+
+/* font.family: Abel  */
+@font-face {
+    font-family: Abel;
+    src: url('../font/Abel/Abel-Regular.ttf');
+}
+/* font.family: Acme  */
+@font-face {
+    font-family: Acme;
+    src: url('../font/Acme/Acme-Regular.ttf');
+}
+/* font.family: Anton */
+@font-face {
+    font-family: Anton;
+    src: url('../font/Anton/Anton-Regular.ttf');
+}
+/* font.family: Domine  */
+@font-face {
+    font-family: Domine;
+    src: url('../font/Domine/Domine-Regular.ttf');
+}
+/* font.family: Oswald  */
+@font-face {
+    font-family: Oswald;
+    src: url('../font/Oswald/Oswald-VariableFont_wght.ttf');
+}
